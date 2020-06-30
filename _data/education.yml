@@ -6,6 +6,7 @@
     "https://www.hslu.ch/de-ch/informatik/?gclid=CjwKCAjwxev3BRBBEiwAiB_PWAa26l4Z9L5j3Xx1kJN6IuVT-jbzzQTcAXU5HCo31yz3OuD25wCPOBoCT9UQAvD_BwE&gclsrc=aw.ds"
   description: | # this will include new lines to allow paragraphs
   
+- layout: left  
   name: Friedrich-Schiller-Universität Jena
   dates: 2000 - 2005
   qualification: M.A. Soziologie/Psychologie
