@@ -1,49 +1,42 @@
 - layout: left
-  company: LINK Institut
+  company: LINK Institut Luzern
   link: link.ch
   job_title: Head Data & Analytics
   dates: 2019 - Present
   quote: >
    Das LINK Institut erhebt präzise, zuverlässige und aussagekräftige Entscheidungsgrundlagen. Diese geben Ihnen Sicherheit und helfen Ihrer Organisation, Ihrem Unternehmen, den richtigen Weg einzuschlagen. Mit Passion für höchste Qualität und unserem starken Mix aus Branchenkompetenz, Methodenwissen und Erhebungsinstrumenten betreiben wir Markt- und Sozialforschung auf höchstem Niveau.
   description: | # this will include new lines to allow paragraphs
-   Luzern
+   
 
 - layout: left
-  company: LINK Institut
-  link: link.ch
+  company: LINK Institut Luzern
   job_title: Head IT Operations
   dates: 2018 - 2019
   quote: >
   description: | # this will include new lines to allow paragraphs
-   Luzern
    
-   - layout: left
-  company: LINK Institut
-  link: link.ch
+- layout: left
+  company: LINK Institut Luzern
   job_title: Head Data Processing
   dates: 2011 - 2018
   quote: >
   description: | # this will include new lines to allow paragraphs
-   Luzern
    
 - layout: left
-  company: LINK Institut
-  link: link.ch
+  company: LINK Institut Luzern
   job_title: Project Manager
   dates: 2007 - 2010
   quote: >
   description: | # this will include new lines to allow paragraphs
-   Luzern
 
 - layout: left
-  company: Kantar Deutschland
+  company: Kantar Deutschland Munich
   link: https://www.kantardeutschland.de
   job_title: Data Analyst
   dates: 2006 - 2007
   quote: >
-     Kantar ist eines der weltweit führenden Unternehmen für Data Science, Insights und Consulting. Mit Vertretungen in mehr als 100 Ländern ist Kantar eines der weltweit führenden Unternehmen für Data Science, Insights und Consulting. Kantar versteht wie kaum ein anderer die Menschen – wie sie denken, fühlen, bewerten, konsumieren oder wählen. Für dieses tiefe Verständnis nutzen wir eigene und externe Daten, analysieren, prüfen und verbinden sie. Das Ergebnis sind relevante Empfehlungen für den entscheidenden Impact in Wirtschaft, Politik und Gesellschaft
+     Mit Vertretungen in mehr als 100 Ländern ist Kantar eines der weltweit führenden Unternehmen für Data Science, Insights und Consulting. Kantar versteht wie kaum ein anderer die Menschen – wie sie denken, fühlen, bewerten, konsumieren oder wählen. Für dieses tiefe Verständnis nutzen wir eigene und externe Daten, analysieren, prüfen und verbinden sie. Das Ergebnis sind relevante Empfehlungen für den entscheidenden Impact in Wirtschaft, Politik und Gesellschaft
   description: | # this will include new lines to allow paragraphs
-   Munich
    
 - layout: left
   company: Friedrich-Schiller-Universität Jena und Università di Siena
@@ -51,5 +44,4 @@
   job_title: Data Analyst/Tutor/wissenschaftlicher Mitarbeiter
   dates: 2001 - 2006
   quote: >
-  description: | # this will include new lines to allow paragraphs
-   Jena / Siena   
+  description: | # this will include new lines to allow paragraphs  
