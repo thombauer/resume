@@ -3,15 +3,14 @@
   dates: 2019 - 2020
   qualification: CAS Big Data Analytics
   quote: >
-    "https://www.hslu.ch/de-ch/informatik/"
-  description: | # this will include new lines to allow paragraphs
     Entscheidungsprozesse der Unternehmensführung müssen zwingend stärker auf zukunftsgerichteten Informationen zu Szenarien und Vorhersagen basieren. Dazu müssen in nahezu Echtzeit  (near-time) Erkenntnisse aus einer Fülle von strukturierten und unstrukturierten, internen und externen Datenbeständen gewonnen und Schlüsse gezogen werden. Fortgeschrittene Methoden der Datenhaltung, beliebig skalierbare Rechenleistungen und die erweiterten Fähigkeiten der Analytik bzw. der Vorhersage machen dies heute möglich. Diese Entwicklung stellt viele Unternehmen vor grosse Herausforderungen, eröffnet aber auch zahlreiche neue Perspektiven.
-  
+  description: | # this will include new lines to allow paragraphs
+    "https://www.hslu.ch/de-ch/informatik/"
 - layout: left  
   name: Friedrich-Schiller-Universität Jena
   dates: 2000 - 2005
   qualification: M.A. Soziologie/Psychologie
   quote: >
-    "https://www.uni-jena.de"
+    Die Friedrich-Schiller-Universität Jena gehört zu den traditionsreichsten und ältesten Universitäten Deutschlands. Zum 450-jährigen Bestehen der Universität erhielt Jena den Titel Stadt der Wissenschaft 2008. Im Jahr 2018 konnte die Universität mit dem Forschungscluster „Balance of the Microverse“ erneut zusätzliche Förderungen im Rahmen der Exzellenzinitiative erwerben.
   description: | # this will include new lines to allow paragraphs
-     Die Friedrich-Schiller-Universität Jena gehört zu den traditionsreichsten und ältesten Universitäten Deutschlands. Zum 450-jährigen Bestehen der Universität erhielt Jena den Titel Stadt der Wissenschaft 2008. Im Jahr 2018 konnte die Universität mit dem Forschungscluster „Balance of the Microverse“ erneut zusätzliche Förderungen im Rahmen der Exzellenzinitiative erwerben.
+    "https://www.uni-jena.de"
