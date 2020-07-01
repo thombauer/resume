@@ -22,26 +22,29 @@ linkedin_username: thombauer
 
 # About Section
 # about_title: About Me
-about_profile_image: images/thombauer.jpg
+about_profile_image: images/thombauer_sketch.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Thom and I'm a data scientist and product owner.
+  Hi, my name's Thom and I'm a data scientist and product owner. I have 20 years of experience in data analysis and programming languages. My university background is social sciences combined with a strong practicle IT background as well as curiosity for always extending my skillset. Besides a proven ability in teaching people new programming skills and data concepts I'm always up to learn something new myself. 
 
-  I am most skilled in: <mark>R</mark> and <mark>Tableau</mark>
+  I have 10 years of management expertice as a Team Leader and Head of Data Analytics Department. As a Business Developer and Product Owner I'm always in for customer centricity and communication as key factors to success. 
+  
+  I am most skilled in <mark>R</mark> and <mark>Tableau</mark>, currently improving my skills in <mark>SAS</mark>, <mark>SQL</mark> and mastering <mark>Python</mark>.
 
 # Projects Section
 projects_title: Skills / Tools
 
 # Experience Section
-# experience_title: Experience
+experience_title: Berufserfahrung
 
 # Education Section
-# educaton_title: Education
+educaton_title: Bildungsweg
 
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in data and code some of my other interests and hobbies are:
-   - Basketball
+   - Basketball (#nevernotballin)
+   - Skateboards
    - Music
    - Photography
 
