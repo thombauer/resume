@@ -4,7 +4,7 @@
   job_title: Head Data & Analytics
   dates: 2019 - Present
   quote: >
-    - Abteilungsleitung der Datenerhebung, Datenanalyse und des Reportings
+    Abteilungsleitung der Datenerhebung, Datenanalyse und des Reportings
     - Data Analytics und Data Science
     - Text Analytics 
     - Datenvisualisierung und Automatisierung
@@ -17,7 +17,7 @@
   job_title: Head IT Operations
   dates: 2018 - 2019
   quote: >
-    - Abteilungsleitung der Datenerhebung, Datenanalyse und des IT-Supports
+    Abteilungsleitung der Datenerhebung, Datenanalyse und des IT-Supports
     - Data Analytics und Data Science
     - Text Analytics 
     - Datenvisualisierung und Automatisierung
@@ -30,6 +30,9 @@
   job_title: Head Data Processing
   dates: 2011 - 2018
   quote: >
+    Teamleitung Datenanalyse
+    - Data Analytics und Text Analytics 
+    - Datenvisualisierung und Automatisierung
   description: | # this will include new lines to allow paragraphs
    
 - layout: left
@@ -37,6 +40,8 @@
   job_title: Project Manager
   dates: 2007 - 2010
   quote: >
+    Projektleitung Key Projects im Bereich Sozialforschung und Medienforschung
+    - Data Analysis und Automatisierung
   description: | # this will include new lines to allow paragraphs
 
 - layout: left
@@ -45,7 +50,8 @@
   job_title: Data Analyst
   dates: 2006 - 2007
   quote: >
-     Mit Vertretungen in mehr als 100 Ländern ist Kantar eines der weltweit führenden Unternehmen für Data Science, Insights und Consulting. Kantar versteht wie kaum ein anderer die Menschen – wie sie denken, fühlen, bewerten, konsumieren oder wählen. Für dieses tiefe Verständnis nutzen wir eigene und externe Daten, analysieren, prüfen und verbinden sie. Das Ergebnis sind relevante Empfehlungen für den entscheidenden Impact in Wirtschaft, Politik und Gesellschaft
+    Datenanalysen für Key Account im Bereich Telekommunikation
+    - Reporting und statistische Modellierungen
   description: | # this will include new lines to allow paragraphs
    
 - layout: left
@@ -54,4 +60,7 @@
   job_title: Data Analyst/Tutor/wissenschaftlicher Mitarbeiter
   dates: 2001 - 2006
   quote: >
+    wissenschaftlicher Mitarbeiter in einem politikwissenschaftlichen Forschungsprojekt der EU
+    - Datenanalysen für diverse Forschungsprojekte
+    - Tutor für Methoden der empirischen Sozialforschung
   description: | # this will include new lines to allow paragraphs  
