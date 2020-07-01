@@ -1,1 +1,15 @@
+- layout: top-middle
+  name: R
+  link: 6 years
+#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    loving tidyverse
+#  description: | # this will include new lines to allow paragraphs
+#    Description about the work on/with the project
 
+- layout: top-middle
+  name: Tableau
+  link: 5 years
+#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    take a look at my Tableau Public Page "https://public.tableau.com/profile/ctrly#!/"
