@@ -3,30 +3,27 @@
   link: link.ch
   job_title: Head Data & Analytics
   dates: 2019 - Present
-  
-  job_title: Head IT Operations
-  dates: 2018 - 2019
   quote: >
    Das LINK Institut erhebt präzise, zuverlässige und aussagekräftige Entscheidungsgrundlagen. Diese geben Ihnen Sicherheit und helfen Ihrer Organisation, Ihrem Unternehmen, den richtigen Weg einzuschlagen. Mit Passion für höchste Qualität und unserem starken Mix aus Branchenkompetenz, Methodenwissen und Erhebungsinstrumenten betreiben wir Markt- und Sozialforschung auf höchstem Niveau.
   description: | # this will include new lines to allow paragraphs
    
 
 - layout: left
-  company: LINK Institut Luzern
+#  company: LINK Institut Luzern
   job_title: Head IT Operations
   dates: 2018 - 2019
   quote: >
   description: | # this will include new lines to allow paragraphs
    
 - layout: left
-  company: LINK Institut Luzern
+#  company: LINK Institut Luzern
   job_title: Head Data Processing
   dates: 2011 - 2018
   quote: >
   description: | # this will include new lines to allow paragraphs
    
 - layout: left
-  company: LINK Institut Luzern
+#  company: LINK Institut Luzern
   job_title: Project Manager
   dates: 2007 - 2010
   quote: >
