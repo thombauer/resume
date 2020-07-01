@@ -1,7 +1,14 @@
-- layout: top-middle
-  name: Github pages
-  link: github.com/thombauer
-  github: thombauer/resume
+layout: top-middle
+  company: Programming languages
+#  link: Link to company (optional)
+  jobs:
+    - title: SPSS
+      dates: 20 years
+    - title: R
+      dates: 6 years
+    - title: Tableau
+      dates: 5 years
   quote: >
+   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    mastering <mark>Python</mark> and entering the world of deep learning
+    Description of role
