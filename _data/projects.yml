@@ -1,14 +1,1 @@
-layout: top-middle
-  company: Programming languages
-#  link: Link to company (optional)
-  jobs:
-    - title: SPSS
-      dates: 20 years
-    - title: R
-      dates: 6 years
-    - title: Tableau
-      dates: 5 years
-  quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+
