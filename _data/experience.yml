@@ -1,6 +1,23 @@
 - layout: left
   company: LINK Institut Luzern
   link: link.ch
+  jobs:
+    - title: Job title 1
+      dates: Date Range (eg. November 2016 - present)
+    - title: Job title 2
+      dates: Date Range (eg. January 2015 - November 2016)
+  quote: >
+    Abteilungsleitung der Datenerhebung, Datenanalyse und des Reportings
+    
+    - Data Analytics und Data Science
+    - Text Analytics 
+    - Datenvisualisierung und Automatisierung
+    - Product Developer und Product Owner    
+  description: | # this will include new lines to allow paragraphs
+  
+- layout: left
+  company: LINK Institut Luzern
+  link: link.ch
   job_title: Head Data & Analytics
   dates: 2019 - Present
   quote: >
