@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Thom Bauer
 title: Data Scientist / Product Owner
 email: thom.bauer@hotmail.com
-website: www.github.com/thombauer/resume
+website: www.github.com/thombauer
 
 # Social links
 # twitter_username: facespics
@@ -29,7 +29,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>R</mark> and <mark>Tableau</mark>
 
 # Projects Section
-# projects_title: Skills / Tools
+projects_title: Skills / Tools
 
 # Experience Section
 # experience_title: Experience
