@@ -10,3 +10,56 @@
     - Datenvisualisierung und Automatisierung
     - Product Developer und Product Owner    
   description: | # this will include new lines to allow paragraphs
+
+- layout: left
+#  company: LINK Institut Luzern
+  job_title: Head IT Operations
+  dates: 2018 - 2019
+  quote: >
+    Abteilungsleitung der Datenerhebung, Datenanalyse und des IT-Supports
+    - Data Analytics und Data Science
+    - Text Analytics 
+    - Datenvisualisierung und Automatisierung
+    - Product Developer
+    - Planung, Steuerung und Entwicklung der IT
+  description: | # this will include new lines to allow paragraphs
+   
+- layout: left
+#  company: LINK Institut Luzern
+  job_title: Head Data Processing
+  dates: 2011 - 2018
+  quote: >
+    Teamleitung Datenanalyse
+    - Data Analytics und Text Analytics 
+    - Datenvisualisierung und Automatisierung
+  description: | # this will include new lines to allow paragraphs
+   
+- layout: left
+#  company: LINK Institut Luzern
+  job_title: Project Manager
+  dates: 2007 - 2010
+  quote: >
+    Projektleitung Key Projects im Bereich Sozialforschung und Medienforschung
+    - Data Analysis und Automatisierung
+  description: | # this will include new lines to allow paragraphs
+
+- layout: left
+  company: Kantar Deutschland Munich
+  link: https://www.kantardeutschland.de
+  job_title: Data Analyst
+  dates: 2006 - 2007
+  quote: >
+    Datenanalysen für Key Account im Bereich Telekommunikation
+    - Reporting und statistische Modellierungen
+  description: | # this will include new lines to allow paragraphs
+   
+- layout: left
+  company: Friedrich-Schiller-Universität Jena und Università di Siena
+  link: uni-jena.de
+  job_title: Data Analyst / wissenschaftlicher Mitarbeiter
+  dates: 2001 - 2006
+  quote: >
+    wissenschaftlicher Mitarbeiter in einem politikwissenschaftlichen Forschungsprojekt der EU
+    - Datenanalysen für diverse Forschungsprojekte
+    - Tutor für Methoden der empirischen Sozialforschung
+  description: | # this will include new lines to allow paragraphs  
