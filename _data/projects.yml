@@ -38,8 +38,8 @@
 #    Description about the work on/with the project
 
 - layout: left
-  name: SQL/PostgreSQL (5 years)
+  name: SQL/PostgreSQL
 #  link: 4 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    PLUS: <mark>Julia</mark>, <mark>JIRA</mark>, <mark>Confluence</mark>, <mark>Bitbucket</mark>
+    +++ <mark>Julia</mark> <mark>JIRA</mark> <mark>Confluence</mark> <mark>Bitbucket</mark> <mark>Survalyzer</mark> <mark>quantilope</mark>
