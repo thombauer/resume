@@ -3,7 +3,7 @@
 #  link: 6 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    7 years - loving tidyverse
+    7 years - loving tidyverse AND data.table
 #  description: | # this will include new lines to allow paragraphs
 #    Description about the work on/with the project
 
@@ -19,7 +19,7 @@
 #  link: 4 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    4 years - pandas lover
+    4 years - pandas and dash lover
             
 - layout: left
   name: SAS
