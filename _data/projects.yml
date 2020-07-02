@@ -43,3 +43,7 @@
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
 #  quote: >
 #    everyday i'm queriing
+
+- layout: top-middle
+  name: some more: JIRA, Julia
+  quote: >
