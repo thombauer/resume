@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: left
   name: R (7 years)
 #  link: 6 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
@@ -14,21 +14,21 @@
   quote: >
     take a look at my Tableau Public Page
     
-- layout: top-middle
+- layout: left
   name: Python (4 years)
 #  link: 4 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     pandas lover
             
-- layout: top-middle
+- layout: left
   name: SAS (2 years)
 #  link: 4 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     still familiarizing myself
 
-- layout: top-middle
+- layout: left
   name: SPSS (20+ years)
 #  link: 20 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
@@ -37,9 +37,9 @@
 #  description: | # this will include new lines to allow paragraphs
 #    Description about the work on/with the project
 
-- layout: top-middle
+- layout: left
   name: SQL/PostgreSQL (5 years)
 #  link: 4 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-#  quote: >
-#    everyday i'm queriing
+  quote: >
+    <mark>Tableau</mark>
