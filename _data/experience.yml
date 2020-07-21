@@ -1,8 +1,21 @@
 - layout: left
+  company: Suva, Stab Innovation, Luzern
+  link: suva.ch
+  job_title: Data Scientist & Product Owner
+  dates: 2020 - Present
+  quote: >
+    Data Scientist
+    - Machine Learning, Automatisierung
+    - Reporting, Visual Analytics
+    Product Owner Data Science
+    - Data Science Scrum Team in SAFe 
+  description: | # this will include new lines to allow paragraphs
+
+- layout: left
   company: LINK Institut Luzern
   link: link.ch
   job_title: Head Data & Analytics
-  dates: 2019 - Present
+  dates: 2019 - 2020
   quote: >
     Abteilungsleitung der Datenerhebung, Datenanalyse und des Reportings
     - Data Analytics und Data Science
