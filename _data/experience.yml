@@ -5,7 +5,7 @@
   dates: 2020 - Present
   quote: >
     Data Scientist
-    - Machine Learning, Automatisierung
+    - Machine Learning, Automation
     - Reporting, Visual Analytics
     
     Product Owner Data Science
@@ -18,11 +18,11 @@
   job_title: Head Data & Analytics
   dates: 2019 - 2020
   quote: >
-    Abteilungsleitung der Datenerhebung, Datenanalyse und des Reportings
-    - Data Analytics und Data Science
-    - Text Analytics und Reportingautomatisierung
-    - Datenvisualisierung und Automatisierung
-    - Product Developer und Product Owner    
+    Head of Department: Data Collection, Data Analysis and Reporting
+    - Data Analytics and Data Science
+    - Text Analytics and Reporting Automation
+    - Data Visualisation and Automation
+    - Product Developer and Product Owner    
   description: | # this will include new lines to allow paragraphs
 
 - layout: left
@@ -30,12 +30,12 @@
   job_title: Head IT Operations
   dates: 2018 - 2019
   quote: >
-    Abteilungsleitung der Datenerhebung, Datenanalyse und des IT-Supports
-    - Data Analytics und Data Science
+    Head of Department: Data Collection, Data Analysis and IT Support
+    - Data Analytics and Data Science
     - Text Analytics 
-    - Datenvisualisierung und Automatisierung
+    - Data Visualisation and Automation
     - Product Developer
-    - Planung, Steuerung und Entwicklung der IT
+    - Planing, Managing and Developing of IT
   description: | # this will include new lines to allow paragraphs
    
 - layout: left
@@ -43,9 +43,9 @@
   job_title: Head Data Processing
   dates: 2011 - 2018
   quote: >
-    Teamleitung Datenanalyse
-    - Data Analytics und Text Analytics 
-    - Datenvisualisierung und Automatisierung
+    Team Leader Data Analysis
+    - Data Analytics and Text Analytics 
+    - Data Visualisation and Automation
   description: | # this will include new lines to allow paragraphs
    
 - layout: left
@@ -53,27 +53,27 @@
   job_title: Project Manager
   dates: 2007 - 2010
   quote: >
-    Projektleitung Key Projects im Bereich Sozialforschung und Medienforschung
-    - Data Analysis und Automatisierung
+    Project Management Key Projects Social und Media Research
+    - Data Analysis and Automation
   description: | # this will include new lines to allow paragraphs
 
 - layout: left
-  company: Kantar Deutschland Munich
+  company: Kantar Germany Munich
   link: https://www.kantardeutschland.de
   job_title: Data Analyst
   dates: 2006 - 2007
   quote: >
-    Datenanalysen für Key Account im Bereich Telekommunikation
-    - Reporting und statistische Modellierungen
+    Data Analysis Key Account in Telecommunications Sector
+    - Reporting and statistical Modeling
   description: | # this will include new lines to allow paragraphs
    
 - layout: left
-  company: Friedrich-Schiller-Universität Jena und Università di Siena
+  company: Friedrich-Schiller-Universität Jena and Università di Siena
   link: uni-jena.de
-  job_title: Data Analyst / wissenschaftlicher Mitarbeiter
+  job_title: Data Analyst / Research Associate
   dates: 2001 - 2006
   quote: >
-    wissenschaftlicher Mitarbeiter in einem politikwissenschaftlichen Forschungsprojekt der EU
-    - Datenanalysen für diverse Forschungsprojekte
-    - Tutor für Methoden der empirischen Sozialforschung
+    Research Associate: EU Political Sciences Research Project on Elites
+    - Data Analysis several Research Project
+    - Tutoring Empirical Social Sciences
   description: | # this will include new lines to allow paragraphs  
