@@ -1,5 +1,5 @@
 - layout: left
-  name: R
+  name: <mark>R</mark>
 #  link: 6 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
@@ -8,7 +8,7 @@
 #    Description about the work on/with the project
 
 - layout: left
-  name: Tableau
+  name: <mark>Tableau</mark>
   link: https://public.tableau.com/profile/ctrly#!/
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
@@ -29,7 +29,7 @@
     *** | 3 years | Visual Analytics/Enterprise Guide/Viya
 
 - layout: left
-  name: SQL/PostgreSQL/Oracle
+  name: <mark>SQL</mark> <mark>PostgreSQL</mark> <mark>Oracle</mark>
 #  link: 4 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
