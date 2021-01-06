@@ -1,15 +1,14 @@
 - layout: left
-  name: R
+  name: R *****
 #  link: 6 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    8 years - tidyverse/data.table/expss
-    | Lorem ipsum dolor sit amet, consectetur adipisici elit
+    ***** | 8 years | tidyverse/data.table/expss
 #  description: | # this will include new lines to allow paragraphs
 #    Description about the work on/with the project
 
 - layout: left
-  name: Tableau
+  name: Tableau ****
   link: https://public.tableau.com/profile/ctrly#!/
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
