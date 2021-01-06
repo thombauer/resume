@@ -1,5 +1,5 @@
 - layout: left
-  name: R *****
+  name: R
 #  link: 6 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
@@ -8,44 +8,44 @@
 #    Description about the work on/with the project
 
 - layout: left
-  name: Tableau ****
+  name: Tableau
   link: https://public.tableau.com/profile/ctrly#!/
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    6 years - enjoy my Tableau Public
+    ***** | 6 years | visit my Tableau Public page
     
 - layout: left
   name: Python 
 #  link: 4 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    4 years - pandas/sklearn/dash/jupyter notebook
+    **** | 4 years | pandas/sklearn/dash/jupyter notebook
             
 - layout: left
   name: SAS
 #  link: 4 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    3 years - Visual Analytics/Enterprise Guide/Viya
+    *** | 3 years | Visual Analytics/Enterprise Guide/Viya
 
 - layout: left
   name: SQL/PostgreSQL/Oracle
 #  link: 4 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    3 years - building tables and querying databases to store and analyze data quickly
+    **** | 3 years | building tables and querying databases to store and analyze data quickly
     
 - layout: left
   name: SPSS
 #  link: 20 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    20+ years - still a standard in market research industry
+    ***** | 20+ years | still a standard in market research industry
 #  description: | # this will include new lines to allow paragraphs
 #    Description about the work on/with the project
     
 - layout: left
-  name: <mark>Julia</mark> <mark>JIRA</mark> <mark>Confluence</mark> <mark>Bitbucket</mark> <mark>Survalyzer</mark> <mark>quantilope</mark>
+  name: <mark>Julia</mark> <mark>PowerBI</mark> <mark>JIRA</mark> <mark>Confluence</mark> <mark>Bitbucket</mark> <mark>Survalyzer</mark> <mark>quantilope</mark>
 #  link: 20 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
