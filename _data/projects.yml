@@ -4,6 +4,7 @@
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     8 years - tidyverse/data.table/expss
+    | Lorem ipsum dolor sit amet, consectetur adipisici elit
 #  description: | # this will include new lines to allow paragraphs
 #    Description about the work on/with the project
 
@@ -29,6 +30,13 @@
     3 years - Visual Analytics/Enterprise Guide/Viya
 
 - layout: left
+  name: SQL/PostgreSQL/Oracle
+#  link: 4 years
+#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    3 years - building tables and querying databases to store and analyze data quickly
+    
+- layout: left
   name: SPSS
 #  link: 20 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
@@ -36,13 +44,6 @@
     20+ years - still a standard in market research industry
 #  description: | # this will include new lines to allow paragraphs
 #    Description about the work on/with the project
-
-- layout: left
-  name: SQL/PostgreSQL
-#  link: 4 years
-#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    +++ <mark>Julia</mark> <mark>JIRA</mark> <mark>Confluence</mark> <mark>Bitbucket</mark> <mark>Survalyzer</mark> <mark>quantilope</mark>
     
 - layout: left
   name: <mark>Julia</mark> <mark>JIRA</mark> <mark>Confluence</mark> <mark>Bitbucket</mark> <mark>Survalyzer</mark> <mark>quantilope</mark>
