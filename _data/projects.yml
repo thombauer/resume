@@ -15,14 +15,14 @@
     ***** | 6 years | visit my Tableau Public page
     
 - layout: left
-  name: Python 
+  name: <mark>Python</mark>
 #  link: 4 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     **** | 4 years | pandas/sklearn/dash/jupyter notebook
             
 - layout: left
-  name: SAS
+  name: <mark>SAS</mark>
 #  link: 4 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
@@ -36,7 +36,7 @@
     **** | 3 years | building tables and querying databases to store and analyze data quickly
     
 - layout: left
-  name: SPSS
+  name: <mark>SPSS</mark>
 #  link: 20 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
