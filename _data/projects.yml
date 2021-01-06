@@ -3,7 +3,7 @@
 #  link: 6 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    7 years - loving tidyverse AND data.table
+    8 years - tidyverse/data.table/expss
 #  description: | # this will include new lines to allow paragraphs
 #    Description about the work on/with the project
 
@@ -19,14 +19,14 @@
 #  link: 4 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    4 years - pandas and dash lover
+    4 years - pandas/sklearn/dash/jupyter notebook
             
 - layout: left
   name: SAS
 #  link: 4 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    2 years - still familiarizing myself
+    3 years - Visual Analytics/Enterprise Guide/Viya
 
 - layout: left
   name: SPSS
@@ -43,3 +43,12 @@
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     +++ <mark>Julia</mark> <mark>JIRA</mark> <mark>Confluence</mark> <mark>Bitbucket</mark> <mark>Survalyzer</mark> <mark>quantilope</mark>
+    
+- layout: left
+  name: <mark>Julia</mark> <mark>JIRA</mark> <mark>Confluence</mark> <mark>Bitbucket</mark> <mark>Survalyzer</mark> <mark>quantilope</mark>
+#  link: 20 years
+#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+#  description: | # this will include new lines to allow paragraphs
+#    Description about the work on/with the project
