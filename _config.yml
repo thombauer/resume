@@ -24,17 +24,17 @@ linkedin_username: thombauer
 # about_title: About Me
 about_profile_image: images/thombauer.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Thom and I'm a data scientist and product owner. My academic background is social sciences combined with a strong applied IT background. I'm excited about new developments with curiosity for always extending my skillset. Besides a proven ability in teaching people new programming skills and data concepts I'm always up to learn something new myself. 
+  Hi, my name's Thom and I'm a Data Scientist and Product Owner. My academic background is social sciences combined with a strong applied IT background. I'm excited about new developments with curiosity for always extending my skillset. Besides a proven ability in teaching people new programming skills and data concepts I'm always up to learn something new myself. 
 
   I have 10 years of management expertise as a Team Leader, Head of IT Operations and Head of Data Analytics Department. As a Business Developer and Product Owner I'm always in for customer centricity and communication as key factors to success. Customer Satisfaction and Customer Experience Management has always been a key component as a manager and developer.
   
-  In 20 years as a developer and analyst I have used multiple programming languages and tools. I have always strived to broaden my horizons and acquire new skills. Familiarize with common tools and actively looking for new ways to perform tasks efficiently and future-proof. 
+  In 20 years as a developer and analyst I mastered different programming languages and tools. I have always strived to broaden my horizons and acquire new skills. I familiarize with common tools and always look for new ways to perform tasks more efficiently and future-proof. 
   
-  As a Data Scientist I build Machine Learning models to maximize the value of collected Customer Experiences, automate text processing for more efficient pipelines and deal with xAI to work towards human-friendly explanations and transparency in automated decision-making.
+  As a Data Scientist I build Machine Learning models to maximize the value of measured customer experiences and automate text processing for more efficient pipelines. At the interface between Data Science and Social Sciences I deal with xAI to work towards human-friendly explanations and transparency in algorithm-driven automated decision-making.
   
-  I am most skilled in <mark>R</mark> and <mark>Tableau</mark>, currently improving my skills in <mark>SAS Viya</mark>, <mark>SAS Visual Analytics</mark>, <mark>SQL</mark> and mastering <mark>Python</mark>.
+  I am most skilled in <mark>R</mark> and <mark>Tableau</mark>, mastering <mark>Python</mark> and currently improving my skills in <mark>SAS Viya</mark>, <mark>SAS Visual Analytics</mark> and <mark>SQL</mark>.
   
-  As a Product Owner in a Data Science Scrum Team in a SAFe environment I maximize the value of innovative Machine Learning solutions to build future-oriented products in the Social Insurance Industry.
+  As a Product Owner in a Data Science Scrum Team in a SAFe environment I maximize the value of innovative Machine Learning solutions to build the future products in the Social Insurance Industry.
 
 # Projects Section
 projects_title: Skills / Tools
