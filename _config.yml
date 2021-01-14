@@ -40,7 +40,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
   ![R_icon](https://github.com/thombauer/thombauer.github.io/assets/img/R_icon.png "Logo R")
-  ![R__icon] (https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/310px-R_logo.svg.png "Logo R")
+  ![R_ico_n] (https://github.com/thombauer/thombauer.github.io/blob/master/assets/img/R_icon.png "Logo R")
 
 # Projects Section
 projects_title: Skills / Tools
