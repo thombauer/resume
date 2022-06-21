@@ -5,7 +5,7 @@
   dates: 2022 - Present
   quote: >
     Team Lead Data Science
-    - Machine Learning Application ins Claims Management
+    - Machine Learning Applications Claims Management
     - Analytics and Insights Applications
   description: | # this will include new lines to allow paragraphs
 
@@ -15,11 +15,12 @@
   dates: 2020 - Present
   quote: >
     Data Scientist 
-    - Machine Learning, Automation
+    - Machine Learning, Process Automation
     - Reporting, Visual Analytics
     
     | Product Owner Data Science
     - Data Science Scrum Team in SAFe 
+    - Visions, Roadmaps, Communication
   description: | # this will include new lines to allow paragraphs
 
 - layout: left
