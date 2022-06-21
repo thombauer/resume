@@ -1,6 +1,17 @@
 - layout: left
   company: Suva Luzern
   link: suva.ch
+  job_title: Team Lead Data Science & Analytics
+  dates: 2022 - Present
+  quote: >
+    Team Lead Data Science
+    - Machine Learning Application ins Claims Management
+    - Analytics and Insights Applications
+  description: | # this will include new lines to allow paragraphs
+
+- layout: left
+  company: Suva Luzern
+  link: suva.ch
   job_title: Data Scientist & Product Owner
   dates: 2020 - Present
   quote: >
