@@ -10,8 +10,7 @@
   description: | # this will include new lines to allow paragraphs
 
 - layout: left
-  company: Suva Luzern
-  link: suva.ch
+#  company: Suva Luzern
   job_title: Data Scientist & Product Owner
   dates: 2020 - Present
   quote: >
