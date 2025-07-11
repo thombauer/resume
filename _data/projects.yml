@@ -1,51 +1,49 @@
 - layout: left
+  name: <mark>Python</mark>
+  link: https://www.datacamp.com/portfolio/thombauer-c
+#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    ***** | 6 years | pandas/sklearn/dash/jupyter notebook
+
+- layout: left
   name: <mark>R</mark>
 #  link: 6 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    ***** | 8 years | tidyverse/data.table/expss
+    **** | 8 years | tidyverse/data.table/expss
 #  description: | # this will include new lines to allow paragraphs
 #    Description about the work on/with the project
-
-- layout: left
-  name: <mark>Tableau</mark>
-  link: https://public.tableau.com/profile/ctrly#!/
-#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    ***** | 6 years | visit my Tableau Public page
-    
-- layout: left
-  name: <mark>Python</mark>
-#  link: 4 years
-#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    **** | 4 years | pandas/sklearn/dash/jupyter notebook
-            
-- layout: left
-  name: <mark>SAS</mark>
-#  link: 4 years
-#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    *** | 3 years | Visual Analytics/Enterprise Guide/Viya
 
 - layout: left
   name: <mark>SQL</mark> <mark>PostgreSQL</mark> <mark>Oracle</mark>
 #  link: 4 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    **** | 3 years | building tables and querying databases to store and analyze data quickly
+    **** | 5 years | building tables and querying databases to store and analyze data quickly
     
 - layout: left
-  name: <mark>SPSS</mark>
-#  link: 20 years
+  name: <mark>Tableau</mark>
+  link: https://public.tableau.com/profile/ctrly#!/
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    ***** | 20+ years | still a standard in market research industry
-#  description: | # this will include new lines to allow paragraphs
-#    Description about the work on/with the project
+    ***** | 6 years | visit my Tableau Public page
+
+- layout: left
+  name: <mark>PowerBI</mark>
+#  link: https://public.tableau.com/profile/ctrly#!/
+#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    **** | 2 years | building data driven reports and KPI dashboards
     
 - layout: left
-  name: <mark>Julia</mark> <mark>PowerBI</mark> <mark>JIRA</mark> <mark>Confluence</mark> <mark>Bitbucket</mark> <mark>Survalyzer</mark> <mark>quantilope</mark>
+  name: <mark>MS Copilot Studio & Power Automate</mark>
+#  link: 4 years
+#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    **** | 2 years | building knowledge assist and experimenting with agentic AI
+    
+- layout: left
+  name: <mark>Julia</mark> <mark>PowerBI</mark> <mark>JIRA</mark> <mark>Confluence</mark> <mark>Bitbucket</mark>
 #  link: 20 years
 #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
