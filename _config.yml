@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Thom Bauer
-title: Data Scientist / Product Owner
+title: Data Scientist | Product Owner | ML/AI Product Manager
 email: thom.bauer@hotmail.com
 website: thombauer.github.io
 
@@ -24,24 +24,25 @@ gtag: "UA-172319848-1"
 
 # About Section
 # about_title: About Me
-about_profile_image: images/thombauer.jpeg
+about_profile_image: images/Bauer_Thomas_07_2025.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Thom and I'm a Data Scientist and Product Owner. I hold a master's degree in Sociology and Psychology and advanced university certificates in applied sciences in the areas of Data and Machine Learning. I'm excited about new technology with curiosity for always extending my skillset. Besides a proven ability in teaching people coding skills and data concepts I'm always up to learn something new myself. 
+  Hi, I’m Thom, a Data Scientist and Product Owner with a master’s degree in Sociology and Psychology, and advanced certifications in Data Science and Machine Learning. I’m passionate about emerging technologies and continually expanding my skill set. With a strong background in teaching coding and data concepts, I’m always eager to learn and grow.
 
-  I have 10+ years of management expertise as a Team Lead, Head of IT Operations and Head of Data Analytics Department. As a Business Developer and Product Owner I'm always in for customer centricity and communication as key factors to success. Customer Satisfaction and Customer Experience Management have always been a key component as a manager and developer.
-  
-  In 20+ years as a coder and analyst I mastered different programming languages and tools. I have always strived to expend my horizon and acquire new skills focusing on new ways to perform tasks more efficiently and future-proof. 
-  
-  As a Data Scientist I build Machine Learning models to maximize the value of customer experiences and automate text processing for more efficient pipelines. At the interface between Data Science and Social Sciences I deal with xAI to work towards human-friendly explanations and transparency in algorithm-driven automated decision-making.
+  With over 10 years of management experience as a Team Lead, Head of IT Operations, and Head of Data Analytics, I focus on customer-centricity and clear communication as key drivers of success. I’ve always prioritized Customer Satisfaction and Experience Management, both in my leadership roles and product development.
 
-  When it comes to AI I love to be  close to the latest developments and scientific debates as well as to exchange with other companies in order to deploy AI applications to create the greatest possible business value.
+  Over my 20+ years as a coder and analyst, I’ve mastered various programming languages and tools. I’m constantly exploring new techniques to improve efficiency and future-proof my approach.
+
+  As a Data Scientist, I specialize in building Machine Learning models that enhance customer experiences and automate text processing for streamlined workflows. At the intersection of Data Science and Social Sciences, I’m working with explainable AI (xAI) to ensure transparent, human-friendly decision-making in automated systems.
+
+  I’m deeply engaged in AI’s latest advancements and enjoy exchanging ideas with other companies to deploy AI solutions that maximize business value.
   
-  I am most skilled in <mark>R</mark> and <mark>Tableau</mark>, mastering <mark>Python</mark> and currently improving my skills in <mark>SAS Viya</mark>, <mark>SAS Visual Analytics</mark> and <mark>SQL</mark>.
+  I possess advanced expertise in <mark>Python</mark> and <mark>Tableau</mark>, with a strong command of <mark>R</mark>. Currently, I am enhancing my proficiency in <mark>PowerBI</mark> and <mark>generative AI</mark> to further broaden my technical capabilities.
   
-  As a Product Owner in a Data Science Scrum Team in a SAFe environment I maximize the value of innovative Machine Learning solutions to build the future claims products in the Social Insurance Industry.
+  As a ML/AI Product Manger I maximize the value of innovative Machine Learning solutions to build the future claims products in the Social Insurance Industry.
 
   ![PSPOI_icon](https://github.com/thombauer/thombauer.github.io/raw/master/assets/img/pspoI_icon.png "Logo PSPOI")
-
+  ![DataCamp_icon](https://github.com/thombauer/thombauer.github.io/raw/master/assets/img/data_camp.jpeg "Logo DataCamp")
+  
 
 # Projects Section
 projects_title: Skills / Tools
