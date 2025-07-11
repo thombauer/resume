@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Thom Bauer
-title: Data Scientist / Product Owner
+title: Data Scientist & ML/AI Product Manager
 email: thom.bauer@hotmail.com
 website: www.github.com/thombauer/resume
 
@@ -22,11 +22,11 @@ linkedin_username: thombauer
 
 # About Section
 # about_title: About Me
-about_profile_image: images/thombauer.jpg
+about_profile_image: images/Bauer_Thomas_07_2025.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Thom and I'm a data scientist and product owner.
+  Hi, my name's Thom and I'm a data scientist, product owner and product manager.
 
-  I am most skilled in: <mark>R</mark> and <mark>Tableau</mark>
+  I am most skilled in: <mark>Python</mark> and <mark>Tableau</mark>
 
 # Projects Section
 # projects_title: Projects
