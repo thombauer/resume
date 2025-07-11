@@ -1,6 +1,16 @@
 - layout: left
   company: Suva Luzern
   link: suva.ch
+  job_title: ML/AI Product Manager Claims
+  dates: 2025 - Present
+  quote: >
+    ML/AI Product Manager Claims
+    - Machine Learning Applications Claims Management
+    - Analytics and Insights Applications
+  description: | # this will include new lines to allow paragraphs
+  
+- layout: left
+#  company: Suva Luzern
   job_title: Team Lead Data Science & Analytics
   dates: 2022 - Present
   quote: >
@@ -12,7 +22,7 @@
 - layout: left
 #  company: Suva Luzern
   job_title: Data Scientist & Product Owner
-  dates: 2020 - Present
+  dates: 2020 - 2025
   quote: >
     Data Scientist 
     - Machine Learning, Process Automation
@@ -24,8 +34,8 @@
   description: | # this will include new lines to allow paragraphs
 
 - layout: left
-  company: LINK Institut Luzern
-  link: link.ch
+  company: YouGov Switzerland
+  link: https://business.yougov.com/company/yougov-switzerland
   job_title: Head Data & Analytics
   dates: 2019 - 2020
   quote: >
